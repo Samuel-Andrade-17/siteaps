@@ -1,0 +1,51 @@
+
+body{
+  background-color: rgb(250, 249, 169);
+}
+
+.img-principal {
+  background: url("../imagens/Morro_cabeludo_-_Parque_dos_Pireneus_-_Pirenópolis_-_Goiás_01.jpg") no-repeat center center;
+  background-size: cover;
+  min-height: 450px;
+  max-width: 1500px;
+}
+.img-flora{
+  background-image: url("../imagens/cerrado-chapada.webp");
+  background-size: cover;
+  min-height: 550px;
+  max-width: 1500px;
+}
+.titulo-index{
+  text-align: center;
+  color: rgb(255, 255, 255);  
+  font-weight: bold;
+  font-size: 42px;
+  background-position: center;
+  padding-top: 150px;
+}
+.titulo{
+  text-align: center;
+  color: rgb(255, 166, 0);  
+  font-weight: bold;
+  font-size: 42px;
+  background-position: center;
+}
+.text-center-{
+  text-align: center;
+  color: rgb(255, 187, 41);  
+  font-size: 42px;
+  background-position: center;
+}
+.conteudo{
+  max-width: 1000px;
+  margin: auto;
+}
+p{
+  margin: 13px;
+  padding: 5px;
+}
+
+li{
+  padding-left: 30px;
+} 
+
